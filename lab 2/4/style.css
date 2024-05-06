@@ -1,0 +1,9 @@
+.labels{
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 40px;
+}
+table,td,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+}

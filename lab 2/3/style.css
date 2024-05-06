@@ -1,0 +1,19 @@
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.section{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}
+.label,.input{
+    width: 50%;
+}
+.gender{
+    display: flex;
+    flex-direction: row;
+}
